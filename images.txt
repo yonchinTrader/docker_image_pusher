@@ -1,14 +1,1 @@
-hyperledger/fabric-tools:2.5
-hyperledger/fabric-ccenv:2.5
-hyperledger/fabric-orderer:2.5
-hyperledger/fabric-peer:2.5
-hyperledger/fabric-ca:1.5.9
-hyperledger/fabric-nodeenv:2.5
-hyperledger/fabric-ca:1.4.9
---platform linux/amd64 hyperledger/fabric-tools:2.5
---platform linux/amd64 hyperledger/fabric-ccenv:2.5
---platform linux/amd64 hyperledger/fabric-orderer:2.5
---platform linux/amd64 hyperledger/fabric-peer:2.5
---platform linux/amd64 hyperledger/fabric-ca:1.5.9
---platform linux/amd64 hyperledger/fabric-nodeenv:2.5
-
+alpine
